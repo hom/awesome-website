@@ -10,3 +10,6 @@ Some awesome website report.
 - [visualgo](https://visualgo.net/zh) 算法动画
 - [toolnb](https://www.toolnb.com/) 爱资料工具
 - [gitlogs](https://www.gitlogs.com/) Github资讯
+- [seekbetter](https://seekbetter.me/) 收录中国个人独立博客
+- [theaileaner](https://theailearner.com/) `AI`编程
+- [pngimg](http://pngimg.com/) 各种免费可下载使用的 `png` 图片
